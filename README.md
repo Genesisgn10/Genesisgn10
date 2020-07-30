@@ -1,7 +1,5 @@
 ### Hi there! 😁
 
-My name is Felipe Fialho from Brazil (🇧🇷). I've been working as Front-End Developer since 2009 and currently I'm Tech Lead at [Juntos Somos Mais](https://juntossomosmais.com.br). I'm passionate about open source projects, so I've created some projects as [Front-end BR](https://github.com/frontendbr) and I've always loved to produce a lot of content during my career.
-
 My name is Gênesis da Costa Aquino, from Brazil (🇧🇷). I've been working as a Back-End developer since 2016 and I'm currently studying Information Technology (IT). I am passionate about the world of programming and innovation, so I am always learning more and more about this fantastic world, besides that I always liked to produce a lot of content during my career.
 
 
