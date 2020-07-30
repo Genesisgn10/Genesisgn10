@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-My name is Gênesis da Costa Aquino, from Brazil (🇧🇷). I've been working as a Back-End developer since 2016 and I'm currently studying Information Technology (IT). I am passionate about the world of programming and innovation, so I am always learning more and more about this fantastic world, besides that I always liked to produce a lot of content during my career.
+My name is Gênesis da Costa Aquino, from Brazil (🇧🇷) . I've been working as a Back-End developer since 2016 and I'm currently studying Information Technology (IT). I am passionate about the world of programming and innovation, so I am always learning more and more about this fantastic world, besides that I always liked to produce a lot of content during my career.
 
 
 In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
